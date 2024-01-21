@@ -1,0 +1,21 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ÉØˆ„8„É—òÒ1
+L	java:S106
+"+Replace this use of System.out by a logger.(øªğ şÿÿÿÿ8„É—òÒ1
+G	java:S106"+Replace this use of System.out by a logger.(®ĞáÓ8…É—òÒ1
+W
+java:S1161":Add the "@Override" annotation above this method signature(ù„ã…8…É—òÒ1
+L	java:S106"+Replace this use of System.out by a logger.(á´ïŠüÿÿÿÿ8†É—òÒ1
+L	java:S106"+Replace this use of System.out by a logger.(±ŠÃÿÿÿÿÿ8ˆÉ—òÒ1
+R
+java:S1854"5Remove this useless assignment to local variable "c".(—çÇ¢8‰É—òÒ1
+W
+java:S1854"5Remove this useless assignment to local variable "b".(µ¨Ñ¥ıÿÿÿÿ8‰É—òÒ1
+R
+java:S1854"5Remove this useless assignment to local variable "a".(õ‡Ğ8‰É—òÒ1
+C
+java:S1481"&Remove this unused "a" local variable.(õ‡Ğ8‰É—òÒ1
+H
+java:S1481"&Remove this unused "b" local variable.(µ¨Ñ¥ıÿÿÿÿ8ŠÉ—òÒ1
+C
+java:S1481"&Remove this unused "c" local variable.(—çÇ¢8ŠÉ—òÒ1

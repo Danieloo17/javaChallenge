@@ -1,0 +1,5 @@
+
+†
+java:S1319 "dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(šÆ³¦ûÿÿÿÿ8ÝØœòÒ1
+L	java:S106""+Replace this use of System.out by a logger.(À»Ø‡úÿÿÿÿ8÷ØœòÒ1
+L	java:S106$"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8÷ØœòÒ1

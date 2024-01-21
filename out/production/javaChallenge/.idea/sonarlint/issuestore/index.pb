@@ -1,0 +1,21 @@
+
+9
+	main.java,1/9/19f3e5e6ff78fe29cd0f52c2307e766792d7ed9d
+H
+exercise/Krasomowca.java,d/c/dc5ef6bed55aab1e61dbb492c0745b45256914c7
+B
+exercise/Lodz.java,b/3/b36c488bb9a05370c62d57905fff04899aa0e14b
+J
+exercise/LodzWioslowa.java,8/d/8d8dcdf87c07d728154766c731d481fd0ef49c78
+I
+exercise/LodzZaglowa.java,1/5/15bf38cdd8edacd78370d7b442c206b24c619780
+F
+exercise/MultiFor.java,4/a/4a9059dabd957d77ee202b8dd5b8de8348cd1ad8
+A
+exercise/Nos.java,b/7/b7404a1336784434c762897bec0c4c5df561cae5
+S
+#exercise/PomieszaneKomunikaty7.java,6/e/6ebf36fdaadd5ad313a43ed365a1885e89ada085
+G
+exercise/TestLodzi.java,4/d/4dd804acfbd799817b785330897b428de044f507
+O
+exercise/MagnesikArrayList.java,e/a/ea6b0b257e1d52a8cc3fc1cea8fa69eeee7bb221
